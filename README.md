@@ -62,8 +62,8 @@ REST, gRPC
 
 ## Связь со мной
 
-**Habr Career:** https://career.habr.com/backendjzx
-**Email:** mister.garry75@yandex.ru
-**Telegram:** @blackjapantea
+**Telegram:** @blackjapantea  
+**Habr Career:** https://career.habr.com/backendjzx  
+**Email:** mister.garry75@yandex.ru , xcomboss@mail.ru  
 
 ---
