@@ -11,7 +11,7 @@
 Java 21, Spring Boot, Spring MVC, Spring Data JPA, Spring Cloud, Hibernate, Lombok
 
 **Базы данных и брокеры сообщений**  
-PostgreSQL, Apache Kafka, gRPC, Apache Avro
+PostgreSQL, Apache Kafka
 
 **Инструменты**  
 Docker, Maven, Git
