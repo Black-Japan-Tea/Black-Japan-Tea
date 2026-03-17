@@ -20,16 +20,10 @@ REST, gRPC
 
 ---
 
-## Над чем работаю сейчас
-
-- Изучаю Kubernetes для оркестрации Docker-контейнеров в микросервисной среде
-
----
-
 ## Связь со мной
 
 **Telegram:** @blackjapantea  
 **Habr Career:** https://career.habr.com/backendjzx  
-**Email:** mister.garry75@yandex.ru , xcomboss@mail.ru  
+**Email:** mister.garry75@yandex.ru
 
 ---
