@@ -6,7 +6,7 @@
 
 ## Связь со мной
 
-**Telegram:** @blackjapantea 
+**Telegram:** @blackjapantea  
 **Email:** xcomboss@mail.ru
 
 ---
