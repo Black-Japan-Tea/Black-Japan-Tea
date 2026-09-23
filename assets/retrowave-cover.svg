@@ -191,10 +191,7 @@
   <text x="600" y="142" text-anchor="middle" font-family="'Arial Black',Arial,sans-serif" font-weight="900" font-style="italic" font-size="70" letter-spacing="3" fill="#ff2bd6" opacity="0.85" filter="url(#blurMid)">BLACK JAPAN TEA</text>
   <text x="600" y="142" text-anchor="middle" font-family="'Arial Black',Arial,sans-serif" font-weight="900" font-style="italic" font-size="70" letter-spacing="3" fill="url(#chrome)">BLACK JAPAN TEA</text>
 
-  <!-- Подзаголовок с мигающим курсором (тёмное гало для читаемости поверх солнца) -->
-  <text x="504" y="184" font-family="'Courier New',Courier,monospace" font-size="22" fill="#150030" opacity="0.9" filter="url(#blurMid)">@blackjapantea</text>
-  <text x="504" y="184" font-family="'Courier New',Courier,monospace" font-size="22" fill="#7ff3ff" stroke="#150030" stroke-width="5" stroke-linejoin="round" paint-order="stroke">@blackjapantea</text>
-  <rect class="caret" x="695" y="166" width="11" height="21" fill="#7ff3ff" stroke="#150030" stroke-width="2" paint-order="stroke"/>
+  <!-- Подзаголовок перенесён в HUD-строку, справа от REC -->
 
   <!-- ===== ПОЛ / СЕТКА ===== -->
   <rect x="0" y="280" width="1200" height="120" fill="url(#floor)"/>
@@ -399,6 +396,9 @@
   <!-- HUD -->
   <circle class="blink-dot" cx="52" cy="39" r="6" fill="#ff3b3b"/>
   <text class="hud" x="68" y="45" font-size="16" letter-spacing="3">REC</text>
+  <!-- TG-ник справа от REC, с мигающим курсором -->
+  <text x="124" y="45" font-family="'Courier New',Courier,monospace" font-size="15" letter-spacing="2" fill="#7ff3ff" opacity="0.9">@blackjapantea</text>
+  <rect class="caret" x="282" y="33" width="9" height="15" fill="#7ff3ff"/>
   <text class="hud" x="1148" y="45" font-size="16" text-anchor="end" letter-spacing="2">SP 0:00:00</text>
   <text class="hud" x="42" y="384" font-size="15" letter-spacing="2" opacity="0.85">&#9654; PLAY</text>
   <text class="hud" x="1158" y="384" font-size="15" text-anchor="end" letter-spacing="2" opacity="0.85">SLP 0:00:00</text>
